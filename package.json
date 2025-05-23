@@ -1,0 +1,23 @@
+{
+  "name": "week_2_assignment_library",
+  "version": "1.0.0",
+  "description": "A simple system to manage books and members of a library using OOP principles.",
+  "homepage": "https://github.com/Amiele2006/Library-Management-System#readme",
+  "bugs": {
+    "url": "https://github.com/Amiele2006/Library-Management-System/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amiele2006/Library-Management-System.git"
+  },
+  "license": "ISC",
+  "author": "mimi",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}
